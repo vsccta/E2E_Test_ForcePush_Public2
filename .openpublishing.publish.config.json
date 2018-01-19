@@ -19,7 +19,7 @@
   ],
   "notification_subscribers": [],
   "branches_to_filter": [],
-  "git_repository_url_open_to_public_contributors": "https://github.com/OPS-E2E-PPE/E2E_GithubRepo_RepoSync",
+  "git_repository_url_open_to_public_contributors": "https://github.com/OPS-E2E-PPE/E2E_GithubRepo_RepoSync/",
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
   "contribution_branch_mappings": {},
